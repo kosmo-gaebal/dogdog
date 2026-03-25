@@ -4,5 +4,6 @@
   "editor.tabSize": 2,
   "scm.compactFolders": false,  
   "java.compile.nullAnalysis.mode": "automatic",
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
