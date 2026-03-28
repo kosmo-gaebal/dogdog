@@ -180,7 +180,7 @@ def main(page: ft.Page):
                 alignment=ft.Alignment(0, 0),
                 margin=ft.Margin.only(top=10, bottom=10),
                 content=ft.Image(
-                    src="dogsize.png",
+                    src="obesity.png",
                     width=350,
                     fit=ft.BoxFit.CONTAIN,
                 ),
